@@ -1,0 +1,11 @@
+C:\Users\Gianmarco\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\NumberGuessingProgram.exe
+C:\Users\Gianmarco\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\NumberGuessingProgram.deps.json
+C:\Users\Gianmarco\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\NumberGuessingProgram.runtimeconfig.json
+C:\Users\Gianmarco\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\NumberGuessingProgram.runtimeconfig.dev.json
+C:\Users\Gianmarco\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\NumberGuessingProgram.dll
+C:\Users\Gianmarco\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\NumberGuessingProgram.pdb
+C:\Users\Gianmarco\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\NumberGuessingProgram.csprojAssemblyReference.cache
+C:\Users\Gianmarco\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\NumberGuessingProgram.AssemblyInfoInputs.cache
+C:\Users\Gianmarco\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\NumberGuessingProgram.AssemblyInfo.cs
+C:\Users\Gianmarco\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\NumberGuessingProgram.dll
+C:\Users\Gianmarco\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\NumberGuessingProgram.pdb
